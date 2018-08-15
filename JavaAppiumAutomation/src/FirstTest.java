@@ -37,8 +37,11 @@ public class FirstTest {
     @Test
     public void fistTest()
     {
-        WebElement element = driver.findElementByXPath("//*[contains(@text, 'Поиск по Википедии')]");
-        element.click();
+        WebElement element_to_init_search = driver.findElementByXPath("//*[contains(@text, 'Поиск по Википедии')]");
+        element_to_init_search.click();
+
+        WebElement element_to_enter_search_line = driver.findElementByXPath("//*[contains(@text, 'Поиск')]");
+        element_to_enter_search_line.sendKeys("Appium");
 
         // System.out.println("first test run");
     }
