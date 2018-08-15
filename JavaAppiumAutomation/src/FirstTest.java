@@ -3,6 +3,7 @@ import io.appium.java_client.android.AndroidDriver;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.URL;
@@ -36,6 +37,9 @@ public class FirstTest {
     @Test
     public void fistTest()
     {
-        System.out.println("first test run");
+        WebElement element = driver.findElementByXPath("//*[contains(@text, 'Поиск по Википедии')]");
+        element.click();
+
+        // System.out.println("first test run");
     }
 }
