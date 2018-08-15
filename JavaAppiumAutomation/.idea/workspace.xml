@@ -15,8 +15,8 @@
       <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="45" column="137" lean-forward="false" selection-start-line="45" selection-start-column="137" selection-end-line="45" selection-end-column="137" />
+            <state relative-caret-position="318">
+              <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -237,23 +237,11 @@
       <updated>1533817052081</updated>
       <workItem from="1533817060807" duration="4154000" />
       <workItem from="1534172391217" duration="591000" />
-      <workItem from="1534323943984" duration="4539000" />
+      <workItem from="1534323943984" duration="6240000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest - 2018.08.09 at 16h 12m 45s.xml">
-      <configuration name="FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2018.08.09 at 16h 14m 01s.xml">
-      <configuration name="FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2018.08.15 at 12h 29m 44s.xml">
-      <configuration name="FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2018.08.15 at 12h 30m 19s.xml">
-      <configuration name="FirstTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FirstTest - 2018.08.15 at 13h 56m 33s.xml">
       <configuration name="FirstTest" configurationId="JUnit" />
     </history-entry>
@@ -266,9 +254,27 @@
     <history-entry file="FirstTest - 2018.08.15 at 14h 11m 15s.xml">
       <configuration name="FirstTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FirstTest - 2018.08.15 at 14h 50m 29s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.08.15 at 14h 51m 22s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.08.15 at 14h 54m 22s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.08.15 at 14h 56m 41s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.08.15 at 14h 57m 43s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.08.15 at 14h 58m 14s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9284000" />
+    <option name="totallyTimeSpent" value="10985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -316,8 +322,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="45" column="137" lean-forward="false" selection-start-line="45" selection-start-column="137" selection-end-line="45" selection-end-column="137" />
+        <state relative-caret-position="318">
+          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding />
         </state>
       </provider>

@@ -45,7 +45,12 @@ public class FirstTest {
 
         WebElement element_to_enter_search_line = waitForElementPresentByXpath("//*[contains(@text, 'Поиск')]","Cannot find search input");
                 //driver.findElementByXPath("//*[contains(@text, 'Поиск')]");
-        element_to_enter_search_line.sendKeys("Appium");
+        element_to_enter_search_line.sendKeys("Java");
+        waitForElementPresentByXpath(
+                "//*[@resource-id='org.wikipedia:id/page_list_item_container']//*[@text='Язык программирования']",
+                "Cannot find 'Язык программирования' topic searching by 'Java'",
+                15
+        );
 
         // System.out.println("first test run");
     }
