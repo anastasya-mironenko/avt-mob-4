@@ -39,6 +39,12 @@ public class FirstTest {
     }
 
     @Test
+    public void zad1(){
+        waitForElementAndClick(By.xpath("//*[contains(@text, 'Поиск по Википедии')]"), "Cannot find search wiki input", 5);
+        waitForElementPresent(By.xpath("//*[contains(@text, 'Поиск')]"),"Cannot find search input", 5);
+    }
+
+    @Test
     public void fistTest()
     {
         waitForElementAndClick(By.xpath("//*[contains(@text, 'Поиск по Википедии')]"), "Cannot find search input", 5);
